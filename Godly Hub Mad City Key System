@@ -14,7 +14,9 @@ function CheckKey()
             Time = 2
         })
 
-        wait(2)
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/DcYhL/Godly-Hub.Main/main/Godly%20Hub%20Main", true))()
+
+        wait(1)
 
         OrionLib:Destroy()
 
